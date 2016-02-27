@@ -1,0 +1,344 @@
+0:システムの情報を出力します
+0:	ＤＸライブラリ Ver3.12c
+0:	論理プロセッサの数 : 4
+0:	ＯＳ  Windows7 ( Build 7601 Service Pack 1 )
+100:	現時点のＣＰＵ動作速度：大体2.32GHz
+100:	ＭＭＸ命令を使用します
+100:	ＳＳＥ命令が使用可能です
+100:	ＳＳＥ２命令が使用可能です
+100:	ＣＰＵベンダ：GenuineIntel
+101:	ＣＰＵ名：Intel(R) Core(TM) i5 CPU       M 460  @ 2.53GHz
+101:ＣＯＭの初期化... 成功しました
+105:メモリ総量:3766.71MB  空きメモリ領域:2114.44MB 
+105:タイマーの精度を検査します
+105:精度結果 更新回数 マルチメディアタイマー：0  パフォーマンスカウンター：60
+105: パフォーマンスカウンターを使用します タイマー精度 : 2467.822000 KHz 
+106: ソフトの二重起動検査... 二重起動はされていませんでした
+106:ウインドウクラスを登録します... 登録に成功しました
+107:ウインドウモード起動用のウインドウを作成します
+108:ウインドウの作成に成功しました
+108:ウインドウを表示します
+138:ＩＭＥを無効にしました
+139:ウインドウスタイルをウインドウモード用に変更します... 完了
+162:DirectInput関係初期化処理
+162:	XInput DLL の読み込み中... 成功
+164:	DirectInput7 の取得中... 成功
+167:		引き続き初期化処理... 初期化成功
+168:	ジョイパッドの初期化... 
+170:	ジョイパッドの初期化は正常に終了しました
+170:	マウスデバイスの初期化... 初期化成功
+171:	キーボードデバイスの初期化... 初期化成功
+172:DirectInput 関連の初期化は正常に終了しました
+172:XAudio2 の初期化を行います
+172:	XAudio2 インターフェースの取得を行います....  XAudio2インターフェースの取得に失敗しました
+183:	DirectSound の初期化を行います
+183:	DirectSound インターフェースの取得を行います....  成功
+184:	引き続きインターフェースの初期化処理...  成功
+243:		DirectSound デバイスを列挙します
+244:			モジュール名:                 ドライバ記述:プライマリ サウンド ドライバー 
+244:			モジュール名:{0.0.0.00000000}.{7a6c097a-b02e-4063-9404-f57f742c71e0}  ドライバ記述:スピーカー (High Definition Audio デバイス) 
+245:		最大サンプリングレート:200.00KHz 最小サンプリングレート:0.10KHz 
+245:		総サウンドメモリ領域:0.00KB 空きサウンドメモリ領域:0.00KB 
+
+245:		利用可能サンプリング精度
+245:		 プライマリ １６bit = OK  ８bit = OK 
+246:		 セカンダリ １６bit = OK  ８bit = OK 
+
+246:		利用可能チャンネル
+246:		 プライマリ MONO = OK  STEREO = OK 
+247:		 セカンダリ MONO = OK  STEREO = OK 
+
+247:	DirectSound の初期化は正常に終了しました
+249:	DirectDraw オブジェクトの取得を行います....  成功
+253:	引き続き初期化処理... 初期化に成功しました
+277:	IDirect3D9Ex オブジェクトを取得します.... 成功
+280:	IDirect3DDevice9Ex オブジェクトを取得します.... ハードウエア頂点演算を使用します
+540:	成功
+541:	Driver:igdumdx32.dll  Description:Intel(R) HD Graphics
+541:	画面のフォーマットは D3DFMT_X8R8G8B8 です
+541:	16bit Zバッファフォーマットは D3DFMT_D16 です
+541:	24bit Zバッファフォーマットは D3DFMT_D24X8 です
+541:	32bit Zバッファフォーマットは D3DFMT_D24X8 です
+542:	16bit カラーフォーマットは D3DFMT_R5G6B5 です
+542:	32bit カラーフォーマットは D3DFMT_X8R8G8B8 です
+542:	アルファ付き 16bit カラーフォーマットは D3DFMT_A4R4G4B4 です
+542:	アルファ付き 32bit カラーフォーマットは D3DFMT_A8R8G8B8 です
+542:	アルファテスト用 16bit カラーフォーマットは D3DFMT_A1R5G5B5 です
+542:	アルファテスト用 32bit カラーフォーマットは D3DFMT_A8R8G8B8 です
+543:	ＤＸＴ１テクスチャフォーマットはD3DFMT_DXT1 です
+543:	ＤＸＴ２テクスチャフォーマットはD3DFMT_DXT2 です
+543:	ＤＸＴ３テクスチャフォーマットはD3DFMT_DXT3 です
+543:	ＤＸＴ４テクスチャフォーマットはD3DFMT_DXT4 です
+543:	ＤＸＴ５テクスチャフォーマットはD3DFMT_DXT5 です
+543:	描画用 16bit カラーフォーマットは D3DFMT_R5G6B5 です
+543:	描画用 32bit カラーフォーマットは D3DFMT_X8R8G8B8 です
+544:	描画用アルファ付き 32bit カラーフォーマットは D3DFMT_A8R8G8B8 です
+544:	描画用ABGR整数16ビット型カラーフォーマットは D3DFMT_A16B16G16R16 です
+544:	描画用ABGR浮動小数点16ビット型カラーフォーマットは D3DFMT_A16B16G16R16F です
+544:	描画用ABGR浮動小数点32ビット型カラーフォーマットは D3DFMT_A32B32G32R32F です
+544:	描画用１チャンネル整数8ビット型カラーフォーマットは D3DFMT_A8R8G8B8 です
+544:	描画用１チャンネル整数16ビット型カラーフォーマットは D3DFMT_G16R16 です
+544:	描画用１チャンネル浮動小数点16ビット型カラーフォーマットは D3DFMT_R16F です
+545:	描画用１チャンネル浮動小数点32ビット型カラーフォーマットは D3DFMT_R32F です
+545:	描画用２チャンネル整数8ビット型カラーフォーマットは D3DFMT_A8B8G8R8 です
+545:	描画用２チャンネル整数16ビット型カラーフォーマットは D3DFMT_G16R16 です
+545:	描画用２チャンネル浮動小数点16ビット型カラーフォーマットは D3DFMT_G16R16F です
+545:	描画用２チャンネル浮動小数点32ビット型カラーフォーマットは D3DFMT_G32R32F です
+545:	一度に描画できるプリミティブの最大数:1048575
+545:	対応している最大頂点インデックス:16777215
+546:	同時にレンダリングできるバッファの数:4
+546:	最大テクスチャサイズ　幅:4096 高さ:4096
+546:	テクスチャステージテンポラリレジスタ：使用可
+546:	減算合成のハードウェア対応：ネイティブ
+546:	ハードウェア頂点シェーダーバージョンコード：300
+546:	エミュレーション頂点シェーダーバージョンコード：エミュレーション無し
+546:	ピクセルシェーダーバージョンコード：300
+591:	バックバッファロック転送の時間:9894nsec  一時的な描画可能バッファを使用した転送の時間:867nsec
+592:	バックバッファロックを使用しません
+592:	Ｚバッファを作成します.... 成功
+614:	プログラマブルシェーダーを使用します
+
+701:	フォントの初期化を行います
+704:	フォントの初期化は正常に終了しました
+713:	文字コードバッファの初期化を行います... 完了しました
+728:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+742:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+759:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+776:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+797:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+809:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+825:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+842:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+858:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+876:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+892:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+908:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+925:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+942:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+958:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+975:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+992:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+1008:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+1026:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+1043:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+1060:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+1076:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+1093:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+1110:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+1126:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+1144:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+1159:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+1180:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+1194:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+1211:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+1226:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+1242:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+1259:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+1276:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+1292:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+1309:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+1326:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+1343:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+1360:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+1376:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+1392:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+1409:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+1426:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+1443:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+1459:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+1476:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+1493:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+1510:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+1527:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+1543:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+1560:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+1576:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+1593:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+1611:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+1626:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+1643:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+1660:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+1677:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+1693:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+1710:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+1727:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+1743:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+1760:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+1777:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+1793:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+1810:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+1827:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+1843:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+1860:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+1877:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+1893:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+1910:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+1927:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+1943:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+1960:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+1977:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+1996:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+2013:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+2028:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+2044:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+2061:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+2078:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+2140:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+2142:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+2145:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+2161:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+2177:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+2194:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+2211:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+2227:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+2244:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+2261:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+2277:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+2294:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+2311:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+2328:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+2344:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+2361:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+2379:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+2395:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+2412:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+2429:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+2445:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+2462:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+2478:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+2495:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+2513:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+2528:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+2545:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+2562:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+2578:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+2595:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+2612:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+2628:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+2646:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+2662:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+2678:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+2695:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+3301:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+3306:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+3320:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+3333:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+3350:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+3365:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+3382:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+3399:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+3419:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+3434:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+3450:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+3466:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+3483:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+3499:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+3516:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+3533:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+3550:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+3567:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+3596:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+3614:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+3630:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+3649:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+3664:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+3680:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+3697:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+3713:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+3731:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+3748:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+3764:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+3780:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+3798:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+3814:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+3831:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+3848:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+3864:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+3881:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+3898:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+3915:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+3931:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+3948:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+3964:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+3981:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+3998:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+4014:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+4031:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+4048:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+4064:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+4081:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+4098:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+4150:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+4166:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+4181:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+4198:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+4214:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+4231:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+4248:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+4264:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+4281:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+4298:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+4314:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+4331:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+4348:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+4365:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+4381:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+4398:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+4415:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+4431:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+4448:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+4465:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+4481:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+4498:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+4515:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+4531:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+4548:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+4565:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+4582:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+4599:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+4615:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+4632:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+4649:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+4666:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+4682:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+4698:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+4715:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+4732:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+4749:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+4765:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+4782:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+4799:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+4815:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+4832:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+4849:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+4865:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+4883:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+4899:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+4916:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+4934:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+4950:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+4968:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+4984:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+5001:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+5017:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+5034:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+5051:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+5067:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+5084:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+5102:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+5118:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+5133:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+5150:	画像ファイル C:\Users\Kouta\Desktop\タイピング\Release\haikei.png がありません
+5254:	ウインドウを閉じようとしています
+5261:	ウインドウが破棄されようとしています
+5262:	ソフトを終了する準備が整いました
+5279:	フォントの初期化を行います
+5280:	フォントの初期化は正常に終了しました
+5290:	Direct3DDevice9 の解放 2
+5298:	d3d9.dll の解放 1
+5299:	DirectInput 関連の終了処理... 完了
+5330:	DirectSound の終了処理は正常に終了しました
+5363:	
+5363:	Alloc memory dump
+5363:		Total size:0(0.000kb)  Alloc num:0
+5363:	
